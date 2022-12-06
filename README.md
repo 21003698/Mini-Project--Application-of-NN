@@ -83,11 +83,11 @@ print(" prob of class 0>>>>>>> {} \n prop of class 1>>>>> {}".format(Y[0],Y[1]))
 
 
 ## Advantage :
-
+```
 1.To Understand the process in practical manner.
 2.This type of Model works as blue print for another projects (like templet)
 3.Every one can understand easily.
-
+```
 ## Result:
 
 Thus the implementation of simple Neural Network Model via forward propagation and backward propagation was executed successfully ,by our own data points and dataset.
