@@ -9,7 +9,7 @@ My project can helps you to analyze and makes you to understand in better manner
 This Neural Network Model helps to analyze how a Neural Network propagates in forward direction and backward direction and also i have mentioned how to utilize the non linear(activation function).The important thing is that i tested the model with some random values and i checked the performance of the model ,the model was nearly 96% accurate.
 
 ## Algorithm:
-
+```
 1.Import the require modules
 2.I Created my own dataframe with random .rand
 3.I plot the Inline map to visualize the points
@@ -17,7 +17,7 @@ This Neural Network Model helps to analyze how a Neural Network propagates in fo
 5.Feed some data to the forward propagation
 6.Then calculate the Gradient Descent (by differentiation)
 7.Test the model with the random set of points
-
+```
 ## Program:
 ```
 import numpy as np
